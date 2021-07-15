@@ -1,0 +1,5 @@
+Credentials cache: API:1013260
+        Principal: ctommy@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jul 10 16:20:43 2021  Jul 11 02:20:37 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
